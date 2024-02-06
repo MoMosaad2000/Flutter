@@ -1,0 +1,1 @@
+const categories=['general,sports,business'];
